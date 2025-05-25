@@ -22,7 +22,7 @@
         "description": "A Pyrogram v2 String Session from  on Telegram.",
         "value": "",
         "required": true
-      },
+      }
     },
     "buildpacks": [
           {
